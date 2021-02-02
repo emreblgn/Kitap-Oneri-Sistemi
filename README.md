@@ -23,3 +23,10 @@ Okuyucunun okumadığı bir kitaba verebileceği puan değeri aşağıdaki tahmi
 
 **Örnek Girdi ve Çıktılar**
 
+![](/images/input-1.png)
+
+![](/images/input-2.png)
+
+![](/images/input-3.png)
+
+![](/images/input-4.png)
