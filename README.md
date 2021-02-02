@@ -4,14 +4,13 @@ Kullanıcının puan verdiği diğer kitaplara ve puan veren diğer kullanıcıl
 
 **Sistem 3 alt bölümden oluşmaktadır.**
 
-1. Okuyucunun diğer okuyuculara benzerliğinin hesaplanması.
+1. Okuyucunun diğer okuyuculara olan benzerliğinin hesaplanması.
 
 Okuyucuların benzerliği pearson katsayısı kullanılarak hesaplanmaktadır. Benzerlik değeri [-1,1] aralığındadır.
 
 Benzerlik fonksiyonu:
 
 ![](/images/sim-function.png)
-
 
 2. Okuyucunun en çok benzediği k kişinin belirlenmesi.
 
